@@ -2,6 +2,10 @@
 
 An interactive Power BI dashboard for analyzing global maternal mortality trends, country-wise Maternal Mortality Ratio (MMR), and data sources from 2014–2023.
 
+## 📊 Dashboard Preview
+
+![Maternal Mortality Power BI Dashboard](dashboard-preview.png)
+
 ## 📊 Dashboard Overview
 
 This dashboard provides a visual analysis of maternal mortality across different countries and years.
@@ -46,7 +50,7 @@ The objective of this project is to transform maternal mortality data into an in
 
 ## 👩‍💻 Author
 
-**Triffana Antony**
+**Triffana**
 
 ---
 
